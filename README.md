@@ -3,11 +3,18 @@
 # 📁 eRv4n
 
 **`Beginner FrontEnd Developer`**
-#
 
-I'm new here, よろしくお願いします 🙏🏻
+I'm new here, よろしくお願いします!!
 
 ---
+
+### 📚 Languages and Tools
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 <!--
 **eRv4n/eRv4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
