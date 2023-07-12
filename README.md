@@ -15,7 +15,7 @@ I'm new here, よろしくお願いします!!
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" />
 
 <!-- ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&hide_progress=true) -->
