@@ -15,6 +15,8 @@ I'm new here, よろしくお願いします!!
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&hide_progress=true)
+
 <!--
 **eRv4n/eRv4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
