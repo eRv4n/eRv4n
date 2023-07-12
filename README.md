@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet.
 
 #
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" style="padding-top: 20px" />
 
 <!-- ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&hide_progress=true) -->
