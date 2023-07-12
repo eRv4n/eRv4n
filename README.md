@@ -4,7 +4,7 @@
 
 **`Beginner FrontEnd Developer`**
 
-I'm new here, よろしくお願いします!!
+I'm new here, よろしくお願いします!!<br>
 Lorem ipsum dolor sit amet.
 
 ---
