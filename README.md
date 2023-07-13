@@ -20,6 +20,12 @@ Lorem ipsum dolor sit amet.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" />
 
+<a href="https://github.com/eRv4n/github-stats">
+<img src="https://github.com/eRv4n/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/eRv4n/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/eRv4n/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/eRv4n/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 <!-- ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&hide_progress=true) -->
 
