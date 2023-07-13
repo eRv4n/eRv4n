@@ -4,7 +4,7 @@
 
 **`Beginner FrontEnd Developer`**
 
-I'm new here, よろしくお願いします!!
+I'm from Indonesia and I new here, よろしくお願いします!!<br>
 Lorem ipsum dolor sit amet.
 
 ---
@@ -15,6 +15,8 @@ Lorem ipsum dolor sit amet.
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" />
 
