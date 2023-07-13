@@ -2,7 +2,7 @@
 
 # 📁 eRv4n
 
-**`Beginner FrontEnd Developer`**
+**`FrontEnd Developer`**
 
 I'm from Indonesia, よろしくお願いします!!<br>
 Lorem ipsum dolor sit amet.
