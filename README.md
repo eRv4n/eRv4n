@@ -4,7 +4,7 @@
 
 **`Beginner FrontEnd Developer`**
 
-I'm from Indonesia and I new here, よろしくお願いします!!<br>
+I'm from Indonesia, よろしくお願いします!!<br>
 Lorem ipsum dolor sit amet.
 
 ---
