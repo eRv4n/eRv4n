@@ -18,15 +18,12 @@ Lorem ipsum dolor sit amet.
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" />
 
-<a href="https://github.com/eRv4n/github-stats">
-<img src="https://github.com/eRv4n/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/eRv4n/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/eRv4n/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/eRv4n/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 <!-- ---
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&layout=compact&theme=buefy&hide_border=true" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRv4n&hide_progress=true) -->
 
 <!--
